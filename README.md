@@ -25,17 +25,17 @@ A mobile weather application built with React Native, allowing users to search f
 
 #### Search Screen
 
-<img src="https://raw.githubusercontent.com/majid-cj/assets/refs/heads/master/screenshots/screen-shot-1.png" alt="Alt Text" width="200" height="300">
-<img src="https://raw.githubusercontent.com/majid-cj/assets/refs/heads/master/screenshots/screen-shot-2.png" alt="Alt Text" width="200" height="300">
-<img src="https://raw.githubusercontent.com/majid-cj/assets/refs/heads/master/screenshots/screen-shot-3.png" alt="Alt Text" width="200" height="300">
+<img src="https://raw.githubusercontent.com/majid-cj/assets/refs/heads/master/screenshots/screen-shot-1.png" alt="Alt Text" width="120" height="260">
+<img src="https://raw.githubusercontent.com/majid-cj/assets/refs/heads/master/screenshots/screen-shot-2.png" alt="Alt Text" width="120" height="260">
+<img src="https://raw.githubusercontent.com/majid-cj/assets/refs/heads/master/screenshots/screen-shot-3.png" alt="Alt Text" width="120" height="260">
 
 #### Search Screen
 
-<img src="https://raw.githubusercontent.com/majid-cj/assets/refs/heads/master/screenshots/screen-shot-4.png" alt="Alt Text" width="200" height="300">
+<img src="https://raw.githubusercontent.com/majid-cj/assets/refs/heads/master/screenshots/screen-shot-4.png" alt="Alt Text" width="120" height="260">
 
 #### Weather Forecast
 
-<img src="https://raw.githubusercontent.com/majid-cj/assets/refs/heads/master/screenshots/screen-shot-5.png" alt="Alt Text" width="200" height="300">
+<img src="https://raw.githubusercontent.com/majid-cj/assets/refs/heads/master/screenshots/screen-shot-5.png" alt="Alt Text" width="120" height="260">
 
 ### Project Structure
 The project follows a modular structure for better organization:
