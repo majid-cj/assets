@@ -1,7 +1,9 @@
 ### StakeWeatherApp
+
 A mobile weather application built with React Native, allowing users to search for weather forecasts in various locations. The app provides current weather conditions, temperature, humidity, wind speed, and a multi-day forecast for the selected city.
 
 ### Table of Contents
+
 - Features (#features)
 - Screenshots (#screenshots)
 - Tech Stack (#tech-stack)
@@ -11,6 +13,7 @@ A mobile weather application built with React Native, allowing users to search f
 - Dependencies (#dependencies)
 
 ### Features
+
 - Search for weather forecasts by city name.
 - Display current weather conditions, including temperature, humidity, and wind speed.
 - Show a multi-day forecast (e.g., today, tomorrow, and the next few days).
@@ -18,26 +21,33 @@ A mobile weather application built with React Native, allowing users to search f
 - Support for recently searched cities for quick access.
 - Dark mode theme for better user experience.
 
-
 ### Screenshots
 
 ![screen-recording](screenshots/screen-recording.mp4)
+
 #### Search Screen
-![screen-recording](screenshots/screen-shot-1.png)
-![screen-recording](screenshots/screen-shot-2.png)
-![screen-recording](screenshots/screen-shot-3.png)
+
+![screen-recording](https://raw.githubusercontent.com/majid-cj/assets/refs/heads/master/screenshots/screen-shot-1.png)
+![screen-recording](https://raw.githubusercontent.com/majid-cj/assets/refs/heads/master/screenshots/screen-shot-2.png)
+![screen-recording](https://raw.githubusercontent.com/majid-cj/assets/refs/heads/master/screenshots/screen-shot-3.png)
+
 #### Search Screen
-![screen-recording](screenshots/screen-shot-4.png)
+
+![screen-recording](https://raw.githubusercontent.com/majid-cj/assets/refs/heads/master/screenshots/screen-shot-4.png)
+
 #### Weather Forecast
-![screen-recording](screenshots/screen-shot-5.png)
+
+![screen-recording](https://raw.githubusercontent.com/majid-cj/assets/refs/heads/master/screenshots/screen-shot-5.png)
 
 ### Project Structure
-The project follows a modular structure for better organization:
-![file-structure](screenshots/file-structure.png)
 
+The project follows a modular structure for better organization:
+![file-structure](https://raw.githubusercontent.com/majid-cj/assets/refs/heads/master/screenshots/file-structure.png)
 
 ### Dependencies
+
 The app relies on the following key dependencies (as seen in the package.json snippet):
+
 - "@react-native-firebase/analytics": "^21.12.2"
 - "@react-native-firebase/app": "^21.12.2"
 - "@react-navigation/native": "^7.0.18"
@@ -64,10 +74,10 @@ The app relies on the following key dependencies (as seen in the package.json sn
 - "zustand": "^5.0.3"
 
 ### Usage
+
 - Open the app on your device or emulator.
 - On the home screen, use the search bar to look for a city (e.g., "Dubai").
 - Select a city from the search results to view its weather forecast.
 - Check the current weather, including temperature, humidity, wind speed, and a brief description
 - Scroll to see the forecast for the next few days and detailed time-based weather (morning, day).
 - Access recently searched cities from the "Recently Searched Cities" section for quick lookups.
-
