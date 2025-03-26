@@ -23,7 +23,7 @@ A mobile weather application built with React Native, allowing users to search f
 
 ![screen-recording](screenshots/screen-recording.mp4)
 #### Search Screen
-![screen-recording](screenshots/screen-shot-1.png=100x100)
+![screen-recording](screenshots/screen-shot-1.png)
 ![screen-recording](screenshots/screen-shot-2.png)
 ![screen-recording](screenshots/screen-shot-3.png)
 #### Search Screen
