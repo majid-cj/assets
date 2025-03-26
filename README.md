@@ -4,11 +4,10 @@ A mobile weather application built with React Native, allowing users to search f
 ### Table of Contents
 - Features (#features)
 - Screenshots (#screenshots)
-- Tech Stack (#tech-stack)
+- Dependencies (#dependencies)
+- Project Structure (#project-structure)
 - Installation (#installation)
 - Usage (#usage)
-- Project Structure (#project-structure)
-- Dependencies (#dependencies)
 
 ### Features
 - Search for weather forecasts by city name.
@@ -21,7 +20,8 @@ A mobile weather application built with React Native, allowing users to search f
 
 ### Screenshots
 
-![screen-recording](https://raw.githubusercontent.com/majid-cj/assets/refs/heads/master/screenshots/screen-recording.mp4)
+<video src="https://raw.githubusercontent.com/majid-cj/assets/refs/heads/master/screenshots/screen-recording.mp4" width="240" />
+
 
 #### Search Screen
 
@@ -69,6 +69,24 @@ The app relies on the following key dependencies (as seen in the package.json sn
 - "react-native-screens": "^4.4.0"
 - "react-native-svg": "15.8.0"
 - "zustand": "^5.0.3"
+
+### Installation
+
+Steps
+
+- Install dependencies:
+```
+yarn install
+# or
+npm install
+```
+
+- Build application:
+```
+npx expo run:ios
+# or
+npx expo run:android
+```
 
 ### Usage
 - Open the app on your device or emulator.
