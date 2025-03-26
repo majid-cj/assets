@@ -22,8 +22,6 @@ A mobile weather application built with React Native, allowing users to search f
 
 ### Screenshots
 
-<video src="https://raw.githubusercontent.com/majid-cj/assets/refs/heads/master/screenshots/screen-recording.mp4" width="240" />
-
 <video width="320" height="240" controls>
   <source src="https://raw.githubusercontent.com/majid-cj/assets/refs/heads/master/screenshots/screen-recording.mp4" type="video/mp4">
 </video>
