@@ -22,24 +22,25 @@ A mobile weather application built with React Native, allowing users to search f
 ### Screenshots
 
 ![screen-recording](https://raw.githubusercontent.com/majid-cj/assets/refs/heads/master/screenshots/screen-recording.mp4)
+
 #### Search Screen
+
 <img src="https://raw.githubusercontent.com/majid-cj/assets/refs/heads/master/screenshots/screen-shot-1.png" alt="Alt Text" width="100" height="300">
 <img src="https://raw.githubusercontent.com/majid-cj/assets/refs/heads/master/screenshots/screen-shot-2.png" alt="Alt Text" width="100" height="300">
 <img src="https://raw.githubusercontent.com/majid-cj/assets/refs/heads/master/screenshots/screen-shot-3.png" alt="Alt Text" width="100" height="300">
-![screen-recording](https://raw.githubusercontent.com/majid-cj/assets/refs/heads/master/screenshots/screen-shot-1.png)
-![screen-recording](https://raw.githubusercontent.com/majid-cj/assets/refs/heads/master/screenshots/screen-shot-2.png)
-![screen-recording](https://raw.githubusercontent.com/majid-cj/assets/refs/heads/master/screenshots/screen-shot-3.png)
+
 #### Search Screen
+
 <img src="https://raw.githubusercontent.com/majid-cj/assets/refs/heads/master/screenshots/screen-shot-4.png" alt="Alt Text" width="100" height="300">
-![screen-recording](https://raw.githubusercontent.com/majid-cj/assets/refs/heads/master/screenshots/screen-shot-4.png)
+
 #### Weather Forecast
+
 <img src="https://raw.githubusercontent.com/majid-cj/assets/refs/heads/master/screenshots/screen-shot-5.png" alt="Alt Text" width="100" height="300">
-![screen-recording](https://raw.githubusercontent.com/majid-cj/assets/refs/heads/master/screenshots/screen-shot-5.png)
 
 ### Project Structure
 The project follows a modular structure for better organization:
+
 <img src="https://raw.githubusercontent.com/majid-cj/assets/refs/heads/master/screenshots/file-structure.png" alt="Alt Text" width="300" height="200">
-![file-structure](https://raw.githubusercontent.com/majid-cj/assets/refs/heads/master/screenshots/file-structure.png)
 
 
 ### Dependencies
