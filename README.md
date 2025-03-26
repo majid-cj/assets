@@ -4,12 +4,12 @@ A mobile weather application built with React Native, allowing users to search f
 
 ### Table of Contents
 
-- Features (#features)
-- Screenshots (#screenshots)
-- Dependencies (#dependencies)
-- Project Structure (#project-structure)
-- Installation (#installation)
-- Usage (#usage)
+- Features
+- Screenshots
+- Dependencies
+- Project Structure
+- Installation
+- Usage
 
 ### Features
 
