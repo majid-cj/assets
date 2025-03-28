@@ -19,11 +19,16 @@ A mobile weather application built with React Native, allowing users to search f
 - Provide detailed weather information, such as "feels like" temperature and time-based forecasts (morning, day).
 - Support for recently searched cities for quick access.
 - Dark mode theme for better user experience.
+- Event tracking using Google Analytics
 
 ### Screenshots
 
 <video width="320" height="240" controls>
   <source src="https://raw.githubusercontent.com/majid-cj/assets/refs/heads/master/screenshots/screen-recording.mp4" type="video/mp4">
+</video>
+
+<video width="320" height="240" controls>
+  <source src="https://raw.githubusercontent.com/majid-cj/assets/refs/heads/master/screenshots/screen-recording-2.mov" type="video/mp4">
 </video>
 
 #### Search Screen
@@ -39,6 +44,11 @@ A mobile weather application built with React Native, allowing users to search f
 #### Weather Forecast
 
 <img src="https://raw.githubusercontent.com/majid-cj/assets/refs/heads/master/screenshots/screen-shot-5.png" alt="Alt Text" width="120" height="260">
+
+
+#### Event Tracking
+
+<img src="https://raw.githubusercontent.com/majid-cj/assets/refs/heads/master/screenshots/screen-shot-6.png" alt="Alt Text" width="1000" height="500">
 
 ### Project Structure
 
